@@ -31,7 +31,7 @@ const siteProps = {
   instagram: "Krishnal_Mahajan_11",
   linkedIn: "krishnal-mahajan-449477231/",
   medium: "",
-  twitter: "Krishnal Mahajan",
+  twitter: "AiKrishnal",
   youTube: "",
 };
 
