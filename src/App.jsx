@@ -29,7 +29,7 @@ const siteProps = {
   email: "mkrishnal483@gmail.com",
   gitHub: "krishnal11",
   instagram: "Krishnal_Mahajan_11",
-  linkedIn: "Krishnal Mahajan",
+  linkedIn: "krishnal-mahajan-449477231/",
   medium: "",
   twitter: "Krishnal Mahajan",
   youTube: "",
